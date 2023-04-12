@@ -1,0 +1,45 @@
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.deps.json
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.runtimeconfig.json
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.pdb
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.csproj.AssemblyReference.cache
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.AssemblyInfoInputs.cache
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.AssemblyInfo.cs
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.csproj.CoreCompileInputs.cache
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/refint/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.pdb
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.genruntimeconfig.cache
+/Users/justindubin/Desktop/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/ref/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.deps.json
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.runtimeconfig.json
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.pdb
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.csproj.AssemblyReference.cache
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.AssemblyInfoInputs.cache
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.AssemblyInfo.cs
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.csproj.CoreCompileInputs.cache
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/refint/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.pdb
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.genruntimeconfig.cache
+/Users/justindubin/Desktop/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/ref/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.deps.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.runtimeconfig.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/bin/Debug/net6.0/2910-DubinJustin-Lab3.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.csproj.AssemblyReference.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.AssemblyInfoInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.AssemblyInfo.cs
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.csproj.CoreCompileInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/refint/2910-DubinJustin-Lab3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/2910-DubinJustin-Lab3.genruntimeconfig.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 5/Lab 3/2910-DubinJustin-Lab3/2910-DubinJustin-Lab3/obj/Debug/net6.0/ref/2910-DubinJustin-Lab3.dll
